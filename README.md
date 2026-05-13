@@ -112,5 +112,4 @@ This repository includes:
 
 ## Figma Prototype
 
-Add the Figma link here:
 https://www.figma.com/design/vpVxJ5utCOy5muP8aTorTx/Family-Time?node-id=52-68&t=UhktHTJMMUWGvJSp-1
