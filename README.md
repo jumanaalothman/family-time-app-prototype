@@ -110,6 +110,8 @@ This repository includes:
 - Prototype screens
 - Figma prototype link or exported prototype PDF
 
-## Figma Prototype
+## Prototype Link
 
-https://www.figma.com/design/vpVxJ5utCOy5muP8aTorTx/Family-Time?node-id=52-68&t=UhktHTJMMUWGvJSp-1
+The interactive prototype is available here:
+
+Figma link:https://www.figma.com/design/vpVxJ5utCOy5muP8aTorTx/Family-Time?node-id=52-68&t=UhktHTJMMUWGvJSp-1
